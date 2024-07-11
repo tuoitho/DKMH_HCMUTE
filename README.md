@@ -4,7 +4,7 @@
 # mình có thể đảm bảo rằng DỮ LIỆU BẠN NHẬP VÀO THÌ CHỈ CÓ DUY NHẤT BẢN THÂN BẠN BIẾT MÀ THÔI, DỮ LIỆU TUYỆT ĐỐI KO HỀ LƯU GIỮ DƯỚI BẤT KÌ HÌNH THỨC NÀO VÀ KO HỀ CÓ NGƯỜI THỨ 2 NÀO TRÊN THẾ GIAN NÀY BIẾT ĐC
 
 
- CÁCH LẤY CODE THAY VÌ FILE EXe: ĐANG CẬP NHẬT... 15/8/2024...
+ CÁCH LẤY CODE: ĐANG CẬP NHẬT...
  
 cách 1: decrypt file, nhưng mà, mik nghĩ decry còn khó hơn là tự viết kode
 
