@@ -4,5 +4,7 @@
 
 
  CÁCH LẤY CODE THAY VÌ FILE EXe: ĐANG CẬP NHẬT... 15/8/2024...
+ 
 cách 1: decrypt file, nhưng mà, mik nghĩ decrypt còn khó hơn là tự viết cái ms
+
 cách 2: tự viết
