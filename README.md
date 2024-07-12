@@ -6,7 +6,7 @@
 
  CÁCH LẤY CODE: ĐANG CẬP NHẬT...
  
-cách 1: decrypt file, nhưng mà, mik nghĩ decry còn khó hơn là tự viết kode
+cách 1: decrypt file
 
 cách 2: tự viết
 
