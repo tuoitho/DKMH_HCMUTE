@@ -10,7 +10,7 @@ cách 1: decrypt file, nhưng mà, mik nghĩ decry còn khó hơn là tự viế
 
 cách 2: tự viết
 
-cách 3: đang update.............. https://huongdanlaycode-34jj8hotjvehvngqvkhytw.streamlit.app/
+cách 3: https://huongdanlaycode-34jj8hotjvehvngqvkhytw.streamlit.app/
 
 # thường xuyên ghé thăm để lấy bản mới nhất
 
