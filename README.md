@@ -1,4 +1,4 @@
-# Đây là phần mềm đăng ký môn học dành cho sinh viên HCMUTE, hoạt động được 24/24 với chỉ 1 lần lấy cookie.
+# Đây là phần mềm đăng ký môn học dành cho sinh viên HCMUTE
 
 Phiên bản cũ dùng token tại đây (đã không còn được phát triển): https://github.com/tuoitho/dkmh_hcmute
 
