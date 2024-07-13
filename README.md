@@ -3,7 +3,7 @@
 Phiên bản cũ dùng token tại đây (đã không còn được phát triển): https://github.com/tuoitho/dkmh_old
 
 # lưu ý: khi chạy sẽ hơi bị lag vì mình dùng vòng lặp trên ui thread, mình sẽ cập nhật lại sau vào ngày 5/8/2024, mik đang rất bận
-# để hạn chế người dùng, phần mềm chỉ sử dụng cho sv có ctdt là 22110, nếu b muốn dùng cho all sv, mình chỉ tặng cho người có duyên
+để hạn chế người dùng, phần mềm chỉ sử dụng cho sv có ctdt là 22110, nếu b muốn dùng cho all sv, mình chỉ tặng cho người có duyên
 
 # mình có thể đảm bảo rằng DỮ LIỆU BẠN NHẬP VÀO THÌ TRÊN THẾ GIAN NÀY CHỈ CÓ DUY NHẤT BẢN THÂN BẠN BIẾT MÀ THÔI, DỮ LIỆU TUYỆT ĐỐI KO HỀ LƯU GIỮ DƯỚI BẤT KÌ HÌNH THỨC NÀO
 
