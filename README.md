@@ -1,5 +1,5 @@
 # Đây là phần mềm đăng ký môn học dành cho sinh viên HCMUTE
-
+# chỉ cần 1 lần lấy cookie
 Phiên bản cũ dùng token tại đây (đã không còn được phát triển): https://github.com/tuoitho/dkmh_old
 
 # lưu ý: khi chạy sẽ hơi bị lag (chỉ lag giao diện chứ k ảnh huogwr j) vì mình thao tác trực tiép trên ui thread. Và lag còn phụ thuộc web dkmh
