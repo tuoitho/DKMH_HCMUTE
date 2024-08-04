@@ -1,4 +1,6 @@
-# ĐÂY LÀ CÁCH 1: RẤT LÀ K CHUYÊN NGHIỆP VÌ XÀI AUTOCLICK, BẠN HÃY ĐỢI CÁCH 2 VÀ 3 NKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+# CÁCH NÀY DÙNG THỂ LOẠI AUTOCLICK
+# NẾU LỖI Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))
+# Hãy thực thi: pip install pip-system-certs
 # xem mô phỏng ở đây: https://youtu.be/Dfj3N5SXxXo
 import time
 import requests
@@ -7,9 +9,8 @@ from time import sleep
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-# cách 1 xài autoclick dùng acc và pass
-# cách 3 chỉ xài cookie, ko có xài bất kì thể loại autoclick nào
-# thay đỏi để phù hợp vs bạn, phải nhập đúng acc và pass
+
+# thay đỏi để phù hợp vs bạn
 EMAIL="22110999@student.hcmute.edu.vn"
 PASSWORD="123456789"
 class TuoiThoDaKhoc:
