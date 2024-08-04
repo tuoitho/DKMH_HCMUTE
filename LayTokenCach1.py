@@ -1,6 +1,7 @@
 # CÁCH NÀY DÙNG THỂ LOẠI AUTOCLICK
 # NẾU LỖI Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)')))
-# Hãy thực thi: pip install pip-system-certs
+# hãy thực thi: pip install pip-system-certs (hoặc thêm verify=False ở dòng 39 bên dưới)
+
 # xem mô phỏng ở đây: https://youtu.be/Dfj3N5SXxXo
 import time
 import requests
