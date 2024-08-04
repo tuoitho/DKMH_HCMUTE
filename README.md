@@ -5,7 +5,7 @@ Phiên bản cũ dùng token tại đây (đã không còn được phát triể
 # lưu ý: khi chạy sẽ hơi bị lag (chỉ lag giao diện chứ k ảnh huogwr j) vì mình thao tác trực tiép trên ui thread. Và lag còn phụ thuộc web dkmh
 để hạn chế người dùng, phần mềm chỉ sử dụng cho sv có ctdt là 22110, nếu b muốn dùng cho all sv, mình chỉ tặng cho người có duyên
 
-# mình có thể đảm bảo rằng DỮ LIỆU BẠN NHẬP VÀO THÌ TRÊN THẾ GIAN NÀY CHỈ CÓ DUY NHẤT BẢN THÂN BẠN BIẾT MÀ THÔI, DỮ LIỆU TUYỆT ĐỐI KO HỀ LƯU GIỮ DƯỚI BẤT KÌ HÌNH THỨC NÀO (không kể nhân viên google, nhà phát hành trang web dkmh.hcmute.edu.vn, an ninh mạng,nhà cug cấp internet)
+mình có thể đảm bảo rằng DỮ LIỆU BẠN NHẬP VÀO THÌ TRÊN THẾ GIAN NÀY CHỈ CÓ DUY NHẤT BẢN THÂN BẠN BIẾT MÀ THÔI, DỮ LIỆU TUYỆT ĐỐI KO HỀ LƯU GIỮ DƯỚI BẤT KÌ HÌNH THỨC NÀO (không kể nhân viên google, nhà phát hành trang web dkmh.hcmute.edu.vn, an ninh mạng,nhà cug cấp internet)
 
 
 decrypt file, tự viết, https://huongdanlaycode-34jj8hotjvehvngqvkhytw.streamlit.app/
