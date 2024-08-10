@@ -5,7 +5,12 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-
+'''
+HƯỚNG DẪN LẤY COOKIE:
+mở cửa sổ ẩn danh, đăng nhập vào 1 dịch vụ google bất kì (ví dụ mở google.com bấm đăng nhập, sau đó dăng nhập.
+Tiếp theo truy cập https://accounts.google.com/ttdk, bấm f12, chuyển qua tab network, reload lại trang, bấm vào dòng ttdk, chuyển qua header, kéo xuống kiếm cookie và copy cookie.
+LƯU Ý: nếu lấy cookie bằng những cách khác có thể sẻ k hoạt động, nên lấy theo cách trên
+'''
 cookie_str='cookie dạng string'
 cookie_dict=dict(item.split('=',1) for item in cookie_str.split('; '))
 cookie_list=[]
