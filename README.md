@@ -7,4 +7,34 @@ khi chạy sẽ hơi bị lag (chỉ lag giao diện chứ k ảnh huogwr j) vì
 
 mình có thể đảm bảo rằng dữ liệu bạn nhập vào thì trên thế gian này chỉ có duy nhất bản thân bạn biết mà thôi, dữ liệu tuyệt đối ko hề đc lưu giữ
 
-decrypt file, tự viết, https://huongdanlaycode-34jj8hotjvehvngqvkhytw.streamlit.app/
+you có thể decrypt, tự viết or đợi mik hết pùn thì sẽ hiện ra
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://huongdanlaycode-34jj8hotjvehvngqvkhytw.streamlit.app/
