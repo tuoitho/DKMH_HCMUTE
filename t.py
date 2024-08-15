@@ -7,3 +7,7 @@ html('''<script>
      alert('thay vì đăng kiks liên tục vào 1 lớp, sao bạn ko kiểm tra liên tục lớp đó có trống k, nếu trống thì chỉ thả duy nhất 1 CÁI, cái kiểm tra lớp trống có tội tình j???');
      </script>
      ''',height=0)
+html('''<script>
+     alert('k có gì đâu, mn đừng koi');
+     </script>
+     ''',height=0)
