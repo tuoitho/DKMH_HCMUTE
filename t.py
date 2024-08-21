@@ -2,9 +2,9 @@ import streamlit as st
 from streamlit.components.v1 import html
 st.set_page_config(layout="wide")
 st.title('ở đây https://github.com/tuoitho/DKMH_HCMUTE')
-st.title('https://github.com/tuoitho/DKMH_HCMUTE/blob/main/kh%C3%B4ng%20c%C3%B3%20j%20%C4%91%C3%A2u%2C%20mn%20%C4%91%E1%BB%ABng%20koi.js')
-html('<iframe width="902" height="479" src="https://www.youtube.com/embed/Vju0k1wucd0" title="xem trước dkmh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',height=1000)
+st.title('trước đây ai lỡ nhập trên web streamlit r (chỉ là trc đây) thì đã bị lưu lại r (tầm 7,8 ng j đó), ib ẩn danh mik để kiểm chứng và xoá nka hihihiiii, tại mik mún bt ai nhập vào thôi chứ k có j âu')
+# html('<iframe width="902" height="479" src="https://www.youtube.com/embed/Vju0k1wucd0" title="xem trước dkmh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',height=1000)
 html('''<script>
-     alert('k có gì đâu, mn đừng koi');
+     alert('trước đây ai lỡ nhập trên web streamlit r (chỉ là trc đây) thì đã bị lưu lại r (tầm 7,8 ng j đó), ib ẩn danh mik để kiểm chứng và xoá nka hihihiiii, tại mik mún bt ai nhập vào thôi chứ k có j âu');
      </script>
      ''',height=0)
