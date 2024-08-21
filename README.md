@@ -1,13 +1,8 @@
-# Quan trọng: V1.2 thì mình ko đảm bảo là ng viết nên phần mềm này k biết cái b nhập, cách đơn giản nhất là https://youtu.be/94F1LzfGhME
-Đây là phần mềm đăng ký môn học dành cho sinh viên HCMUTE chỉ cần 1 lần lấy cookies
+# Đừng nhập vào cái v1.2 nha, mik sẽ bít ak hihihiiiiiiiiii (mấy cái trc thì mik k bt)
 
-Phiên bản cũ dùng token tại đây (đã không còn được phát triển): [https://github.com/tuoitho/dkmh_old](https://github.com/tuoitho/dkmh-ute-old)
+# trước đây ai lỡ nhập trên web streamlit r (chỉ là trc đây) thì đã bị lưu lại r (tầm 7,8 ng j đó), ib ẩn danh mik để kiểm chứng và xoá nka hihihiiii, tại mik mún bt ai nhập vào thôi chứ k có j âu
 
-khi chạy sẽ hơi bị lag (chỉ lag giao diện chứ k ảnh huogwr j) vì thao tác trực tiép trên ui thread, 
-để hạn chế người dùng, phần mềm chỉ sử dụng cho sv có ctdt là 22110, nếu b muốn dùng cho all sv, hãy tự đổi lại 1 số chỗ cần thiết
+# Đây là phần mềm đăng ký môn học dành cho sinh viên 22110 HCMUTE chỉ cần 1 lần lấy cookies
 
-mình có thể đảm bảo rằng dữ liệu bạn nhập vào thì trên thế gian này chỉ có duy nhất bản thân bạn biết mà thôi, dữ liệu tuyệt đối ko hề đc lưu giữ (ko áp dụng V1.2)
+# Phiên bản cũ dùng token tại đây (đã không còn được phát triển): [https://github.com/tuoitho/dkmh_old](https://github.com/tuoitho/dkmh-ute-old)
 
-you có thể decrypt, tự viết or đợi mik hết pùn thì sẽ hiện ra
-
-huongdanlaycode-34jj8hotjvehvngqvkhytw.streamlit.app/
